@@ -1,0 +1,366 @@
+body{
+	padding-top: 50px;	
+}
+
+.text-muted{
+	color:#C7C6C6;
+}
+
+ul.nav, .jumbotron h1{
+	font-family: 'Abel', courier, serif;
+}
+
+ul.nav{
+	font-size: 13px;
+}
+
+.form-signin .form-control2{
+  margin-bottom: -1px;
+  /*border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;*/
+}
+
+.outborder{
+	border-width: 1px;
+  border-radius: 2px;
+  box-shadow: none;
+  border-color: #e6e6e6;
+  
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  /*border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;*/
+}
+
+
+footer{
+	/*background-color: #428bca;*/
+	background-color: #fff;
+	padding-top: 150px;
+	padding-bottom: 30px;
+	position: relative;
+}
+
+#back-to-top{
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
+#back-to-top a{
+	color: #333;
+}
+
+#get-involved{
+	background-color: #f5f5f5;	
+}
+
+textarea .form-signin .form-control{height: 150px;}
+
+.maintitle{
+	font-family: 'Abel', sans-serif;
+	font-weight:bold;
+}
+
+.title{
+	font-family: 'Abel', sans-serif;
+	color: #5cb85c;
+    font-weight: bold;
+}
+
+.homepage{
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.homepage p{
+	font-size: 21px;
+	font-weight: 300;
+}
+
+.homepage h2, h3{
+	font-family: 'Abel', sans-serif;
+	color: #428bca;
+}
+
+.videopage h2, h3{
+	font-family: 'Abel', sans-serif;
+	color: #428bca;
+}
+
+.videopage h4{
+	font-size: 13px;
+	margin-top: 2px;
+}
+.videopage h2{
+	margin-bottom: 0px;
+}
+
+.homepage a{
+	color: #428bca;
+}
+
+.homepage a:hover{
+	color: #428bca;
+	text-decoration: none;
+	opacity: .8;
+}
+
+.homepage hr{
+	border-top: 1px solid #428bca;
+	width: 140px;
+	margin-top: 15px;
+}
+
+.jumbotron{
+	text-align: center;	
+	background: url('../images/Fruit_Market.jpg') no-repeat left top;
+	background-size: 100%;	
+}
+
+div ul li{
+	margin-right: 7px;
+}
+
+.jumbotron h1{
+	margin-top: 0px;
+	margin-bottom: 50px;
+	color:black;
+	
+}
+
+.jumbotron p{
+	margin-bottom: 30px;
+	color:white;
+	font-weight: 100;
+}
+
+.btn-lg{
+	font-size: 36px;
+}
+
+.grey{
+	color:#999999;
+}
+
+.num{
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.num_sm{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.left{
+	text-align: left;
+}
+
+.middle{
+	text-align: center;
+}
+
+.desc{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.desc2{
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.w_desc{
+	background:green;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+}
+
+.orange{
+	color: orange;
+	font-weight: bold;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.nospace{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.space1{
+	margin-top: 10px;
+}
+
+.space2{
+	margin-top: 20px;
+}
+
+.nopad{ padding:0;}
+
+.padding1{
+	padding: 3px 47px;
+	font-size: 11px;
+}
+.btnfont{
+	font-size: 20px;
+}
+.btnfont2{
+	font-size: 12px;
+}
+.hr_thick{
+	border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #999; /* old IE */
+    background-color: #999; /* Modern Browsers */
+	margin-top: 10px;
+}
+
+.blue{background-color: blue;}
+
+.users {
+  max-width: 400px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.u1{
+	display: block;
+	width: 30%;
+	height: 34px;
+	padding: 6px 12px 6px 0;
+	font-size: 14px;
+	line-height: 1.428571429;
+	float: left;
+}
+.u2{
+	display: block;
+	width: 70%;
+	height: 34px;
+	padding: 6px 12px 6px 0;
+	font-size: 14px;
+	line-height: 1.428571429;
+	float: left;
+}
+.u3{
+	display: block;
+	width: 50%;
+	height: 34px;
+	padding: 6px 12px 6px 0;
+	font-size: 14px;
+	line-height: 1.428571429;
+	float: left;
+}
+
+.dblue{color: #18334A;}
+/*
+.titlev{width: 85px; float: left;}
+.value{width: 285px; float: left;}
+.btncontainer1{ width: 185px; float: left; margin: 10px 2px;}
+.btncontainer2{ width: 185px; float: left; margin: 10px 2px;}
+*/
+.form-signin2 {
+  max-width: 700px;
+  padding: 15px 0;
+}
+textarea{
+  width: 700px;
+  padding: 6px 12px;
+font-size: 14px;
+line-height: 1.428571429;
+color: #555555;
+  border: 1px solid #cccccc;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+-webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.form-signin {
+  max-width: 400px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  /*border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;*/
+}
+.form-signin input[type="password"] {
+  margin-bottom: 0px;
+  /*border-top-left-radius: 0;
+  border-top-right-radius: 0;*/
+}
+
+@media (max-width: 1199px) { 
+	.jumbotron h1{
+		font-size: 56px;
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 991px) { 
+	.jumbotron h1{
+		font-size: 44px;
+	}
+	
+	.jumbotron p{
+		padding: 0 10px;
+	}
+	
+	#get-involved .col-md-4{
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+@media (max-width: 767px) { 
+	.jumbotron h1{
+		font-size: 24px;
+	}
+	
+	.jumbotron p{
+		padding: 0;
+		font-size: 16px;
+	}
+	 
+	.btn-lg{
+		font-size: 18px;
+	}
+	
+	.homepage p{
+		font-size: 18px;
+	}
+	
+	footer img{
+		width: 80%;
+	}
+}
